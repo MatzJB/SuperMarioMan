@@ -12,6 +12,6 @@ Super Mario game in Unity
 
 ## Additional
  * Ability to zoom in when wanted
- * Super Nintendo controller
- * Eliminate all known glitches
+ * Super Nintendo controller input
+ * Eliminate all known glitches 
  * AI to control enemies, environment and Mario autopilot mode
