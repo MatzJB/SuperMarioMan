@@ -7,7 +7,7 @@ Super Mario game in Unity
  * Comparable to Super Mario World physics
  * Level Editor
  * Using SMW Sprites
- * Audio from the original game
+ * Audio from the original game (copyright?)
 
 
 ## Additional
@@ -15,3 +15,9 @@ Super Mario game in Unity
  * Super Nintendo controller input
  * Eliminate all known glitches 
  * AI to control enemies, environment and Mario autopilot mode
+ * Ability to save states
+ * Replay ability
+ 
+ 
+ ## Copyright issues
+ There will be copyright issues, so I will use stand in sprites and audio, just to be safe.
