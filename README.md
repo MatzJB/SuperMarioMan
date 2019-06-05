@@ -3,7 +3,7 @@ Super Mario game in Unity
 
 
 ## Features
-
+ * VR cylindrical View
  * Comparable to Super Mario World physics
  * Level Editor
  * Using SMW Sprites
