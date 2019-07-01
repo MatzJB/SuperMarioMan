@@ -1,13 +1,12 @@
 # SuperMarioMan
-Super Mario game in Unity
+"Super Mario game in Unity"
 
 
 ## Features
- * VR cylindrical View
+ * VR platformer
  * Comparable to Super Mario World physics
- * Level Editor
- * Using SMW Sprites
- * Own audio (copyright issue)
+ * Level Editor (separate)
+ * Sound effects (prevent copyright issue)
 
 
 ## Additional
@@ -20,4 +19,8 @@ Super Mario game in Unity
  
  
  ## Copyright issues
- Since this is based on Super Mario, staying away from sprites, audio is important, just to be safe.
+ Since this is based on Super Mario, staying away from sprites, audio is important, just to be safe
+
+
+ ## Physics
+ The game is made to be used in VR, using the ability to look up/down and left/right as part of the game play. The hero moves forward while the world moves around the character. This allows the user to spend most of the time looking in the forward direction and not having to rotate the head too much. The game might require the user to look off to the left or right up or down depending on the design of the level.
