@@ -19,8 +19,8 @@
  
  
  ## Copyright issues
- Since this is based on Super Mario, staying away from sprites, audio is important, just to be safe
+ Since this is based on Super Mario, we are staying away from copyrighted sprites and audio, just to make sure.
 
 
  ## Physics
- The game is made to be used in VR, using the ability to look up/down and left/right as part of the game play. The hero moves forward while the world moves around the character. This allows the user to spend most of the time looking in the forward direction and not having to rotate the head too much. The game might require the user to look off to the left or right up or down depending on the design of the level.
+ The game is made to be used in VR, using the ability to look up/down and left/right as part of the game play. The hero moves right/left and at the same time the world moves along with the character. This allows the user to spend most of the time looking forward. Only occasionally will the game require the user to rotate the head as part of the game mechanics.
